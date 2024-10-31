@@ -1,0 +1,23 @@
+/* styles */
+
+.back{
+    background-color: rgb(250, 158, 173);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.other{
+    font-size: 24px;
+}
+
+#div1{
+    color: blue;
+    font-size: 36px;
+
+}
+
+#div2{
+    background-color: rgb(138, 255, 138);
+    font-size: 24px;
+    font-weight: bold;
+
+}
